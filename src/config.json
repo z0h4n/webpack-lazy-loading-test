@@ -1,0 +1,6 @@
+{
+  "componentsToLoad": [
+    "component1",
+    "component3"
+  ]
+}
